@@ -1,0 +1,398 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+header{
+    display:flex;
+    justify-content:space-around;
+  
+    background-color: rgb(164, 181, 189);
+    
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    text-align:center ;
+    padding: 30px ;
+    text-decoration-color: black;
+    
+    
+    
+
+
+}
+ul{
+    list-style-type: none;
+    display:flex;
+    justify-content: space-between;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    
+}
+main{
+    display:flex;
+    justify-content: center;
+    align-items: stretch;
+    background-image: url(https://test-website.bharatpe.io/wp-content/uploads/2022/09/section-bg.png);
+  
+    
+    
+
+
+}
+.center{
+    padding-right: 80px;
+    
+}
+.image1{
+    border-radius: 20px;
+    
+}
+header{
+    border-bottom: solid 1px #ccc; 
+    box-shadow: 0px 2px 4px 0 rgba(0,0, 0, 0.1);
+    background-color: #ffffff;
+    
+}
+.heading{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+    font-size: 50px;
+}
+.y{
+    
+    font-size: 50px;
+   
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+    color:#2B7BFF
+    
+}
+.nav{
+    text-decoration: none;
+    color: black;
+
+    
+}
+.img2{
+    padding-right: 40px;
+    width: 200px;
+    padding-top: 20px;
+}
+.p2{
+    color: #707070;
+}
+
+
+.button{
+    background-color:#fff;
+    border-radius: 8px;
+    padding: 10px ;
+    padding-right: 40px;
+    padding-left: 40px;
+    
+    font-size: medium;
+    border-width: 0cap;
+    box-shadow: 0 1px 1px rgba(9,30,66,0.125);
+    text-align: center;
+    margin-right: 20px;
+    
+    
+}
+.flex{
+    display:flex;
+    justify-content: space-between;
+   
+    background-image: url(https://test-website.bharatpe.io/wp-content/uploads/2022/09/section-bg.png);
+    
+    background-position: center;
+}
+.flex2{
+    display:flex;
+    justify-content: space-between;
+    justify-content: center;
+    background-color: black;
+    font-size:large;
+   
+    color:white
+    
+    
+}
+.b{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:bolder;
+    font-size: xx-large;
+    color:white;
+    padding-top: 40px;
+    
+}
+.H1{
+    padding-inline: 50px;
+    
+    
+
+}
+.H2{
+    padding-inline: 50px;
+    
+
+}
+.H3{
+    padding-inline: 50px;
+    
+
+}
+.H4{
+    padding-inline: 50px;
+    
+
+}
+.text{
+    font-size:xx-large;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 80px;
+
+}
+.flex4{
+    display:flex;
+    justify-content: space-around;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+
+}
+.img4{
+    
+    border-radius: 9px;
+    
+}
+.text2{
+   
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.text4{
+    padding-left: 100px;
+    font-size:large;
+    color:#787575
+    
+
+}
+.text3{
+    font-size:medium;
+    color:#4b4545
+}
+.button2{
+    
+    border-color: #689ef4;
+    border-radius: 5px;
+    font-size:medium;
+    padding: 0%;
+    padding-top: 0px;
+    padding-bottom: 0%;
+    
+}
+.dash2{
+    text-decoration: none;
+    padding-top:8px;
+    padding-bottom: 8px;
+}
+.flex5{
+    display:flex;
+    justify-content:center;
+    background-color: aqua;
+}
+.box1,.box2{
+    border-radius: 8px;
+    padding:30px;
+    margin:5px;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: 5px;
+    box-shadow: 2px 1px 2px 2px rgba(0,0,0,0.1);
+    
+    
+    
+}
+.boxes{
+    display:flex;
+    justify-content:space-around;
+   
+
+}
+.txt{
+    font-weight:900;
+    font-size: xx-large;
+
+    
+        
+    padding: 568px;
+}
+.txt2{
+   
+    box-shadow: #010712d6;
+    text-emphasis: none;
+text-align:center;
+padding-right: 38px;
+padding-top: 28px;
+padding-bottom: 25px;
+
+
+
+
+}
+.active{
+    
+  padding-right: 4px;  
+  padding-left: 10px;
+  font-weight: 800;
+text-decoration: none;
+color: black;
+
+}
+.b1{
+    background-color: #fff;
+    padding:10px;
+    border-radius: 10px;
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    box-shadow: 2px 1px 2px 2px rgba(0,0,0,0.1);
+    border-style: none;
+    
+}
+.link1{
+    
+    font-weight: 600;
+   
+    
+    color: #2B7BFF;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+.txt3{
+    padding:8px;
+    
+    
+    font-weight: 700;
+    
+    
+    border-radius: 5px;
+    background-color: #2B7BFF;
+    color: white;
+   
+
+}
+.x{
+    border-radius: 8px;
+}
+.edit{
+    text-align: center;
+    font-weight: 700;
+    font-size: x-large;
+}
+.all{
+    background-color: #e8f6f8;
+}
+.x2{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 800;
+    padding-left: 568px;
+}
+.x3{
+    
+    padding-top: 30px;
+    
+}
+.x4{
+    padding-left: 200px;
+}
+.flex6{
+    display:flex;
+    
+}
+.many{
+    
+    padding-top: 150px;
+    text-align: center;
+    font-size: larger;
+    
+
+
+    
+}
+.many1{
+   
+    text-align: center;
+}
+.flex7{
+    display:flex;
+    justify-content: center;
+    background-color: #ffffff;
+    background-image:url( https://test-website.bharatpe.io/wp-content/uploads/2022/09/section-bg.png);
+}
+.bx{
+    
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:bolder;
+    font-size: xx-large;
+    
+
+    padding-top: 40px;
+    padding-left: 500px;
+
+}
+.shape{
+    border-radius: 200px;
+}
+.d.all{
+    display:flex;
+    justify-content:space-around;
+}
+.dabba1,.dabba2,.dabba3{
+    border:2px solid black;
+    padding:30px;
+    margin:5px;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: 5px;
+
+    
+}
+.boxes2{
+    display:flex;
+    justify-content:space space-around;
+}
+.box11,.box22,.box33{
+    border-radius: 8px;
+    padding:30px;
+    margin:5px;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: 5px;
+    box-shadow: 2px 1px 2px 2px rgba(0,0,0,0.1);
+    
+}
+.ww{
+   
+    font-size: x-large;
+    font-weight: 600;
+}
+.finalflex{
+    
+    display:flex;
+    justify-content: space-around;
+    background-color: black;
+    color:#cccccc;
+    padding: 40px;
+}
